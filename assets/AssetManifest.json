@@ -1,6 +1,4 @@
 {
-  "assets/assets/portfolio.png": ["assets/assets/portfolio.png"],
-  "assets/assets/search.png": ["assets/assets/search.png"],
   "packages/cool_alert/assets/flare/error_check.flr": [
     "packages/cool_alert/assets/flare/error_check.flr"
   ],
@@ -18,5 +16,7 @@
   ],
   "packages/cupertino_icons/assets/CupertinoIcons.ttf": [
     "packages/cupertino_icons/assets/CupertinoIcons.ttf"
-  ]
+  ],
+  "portfolio.png": ["assets/assets/portfolio.png"],
+  "search.png": ["assets/assets/search.png"]
 }
