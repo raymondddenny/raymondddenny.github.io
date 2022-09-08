@@ -1,6 +1,6 @@
 {
-  "assets/portfolio.png": ["assets/assets/portfolio.png"],
-  "assets/search.png": ["assets/assets/search.png"],
+  "assets/assets/portfolio.png": ["assets/assets/portfolio.png"],
+  "assets/assets/search.png": ["assets/assets/search.png"],
   "packages/cool_alert/assets/flare/error_check.flr": [
     "packages/cool_alert/assets/flare/error_check.flr"
   ],
